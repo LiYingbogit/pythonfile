@@ -1,1 +1,1 @@
-hello ustc
+这是学习python 的示例代码
