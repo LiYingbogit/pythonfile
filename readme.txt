@@ -1,1 +1,1 @@
-这是学习python 的示例代码
+these are python learning demo file
